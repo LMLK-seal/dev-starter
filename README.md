@@ -29,14 +29,11 @@ pip install requests
    ```bash
    chmod +x run.py
    ```
+4. Windows: No additional setup needed - Python files run directly.
 
 ## 🎯 Usage
 
-Simply run the script from your project directory:
-
-```bash
-python run.py
-```
+Open and run the script from your project directory.
 
 ### What happens next:
 1. 🖥️ Opens a new terminal window
