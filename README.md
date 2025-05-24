@@ -1,8 +1,8 @@
-# NPM Development Server Launcher
+# NPM Development Launcher
 
 ![dev-starter Chat Demo](https://raw.githubusercontent.com/LMLK-seal/dev-starter/refs/heads/main/dev-starter.gif)
 
-A Python script that automates the process of starting your npm development server and opening it in your browser. Perfect for streamlining your web development workflow!
+A Python script that automates the process of starting your npm development and opening it in your browser. Perfect for streamlining your web development workflow!
 
 ## 🚀 Features
 
