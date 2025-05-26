@@ -25,7 +25,7 @@ pip install requests
 
 ## 🛠️ Installation
 
-1. Download the `run.py` script
+1. Download the `run.py` or `run2.py` script (Read useage for the difference between them)
 2. Place it in your project's root directory (same level as your `package.json`)
 3. Make sure it's executable (Linux/macOS):
    ```bash
@@ -35,13 +35,23 @@ pip install requests
 
 ## 🎯 Usage
 
-Open and run the script from your project directory.
+Open and run the script ran.py from your project directory.
 
 ### What happens next:
 1. 🖥️ Opens a new terminal window
 2. 🏃 Runs `npm run dev` in that terminal
 3. ⏳ Waits for the development server to start
 4. 🌐 Automatically opens your browser to `http://localhost:5173`
+
+Open and run the script run2.py from your project directory.
+
+### What happens next:
+1. 📝 Checks if dependencies are installed (node_modules).
+2. 🔧 Runs npm install if necessary.
+3. 🖥️ Opens a new terminal window
+4. 🏃 Runs `npm run dev` in that terminal
+5. ⏳ Waits for the development server to start
+6. 🌐 Automatically opens your browser to `http://localhost:5173`
 
 ## ⚙️ Configuration
 
