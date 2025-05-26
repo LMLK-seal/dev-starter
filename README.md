@@ -1,6 +1,6 @@
 # NPM Development Launcher
 
-![HA](https://raw.githubusercontent.com/LMLK-seal/House-Advantage/refs/heads/main/Preview.jpg)
+![dev-starter Chat Demo](https://raw.githubusercontent.com/LMLK-seal/dev-starter/refs/heads/main/dev-starter.gif)
 
 A Python script that automates the process of starting your npm development and opening it in your browser. Perfect for streamlining your web development workflow!
 
