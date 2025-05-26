@@ -53,6 +53,9 @@ Open and run the script run2.py from your project directory.
 5. ⏳ Waits for the development server to start
 6. 🌐 Automatically opens your browser to `http://localhost:5173`
 
+Note: 
+If dependencies are already installed the program will skip this part and runs `npm run dev`.
+
 ## ⚙️ Configuration
 
 You can customize the script by modifying these variables at the top of `run.py`:
