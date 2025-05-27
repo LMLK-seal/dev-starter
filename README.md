@@ -35,7 +35,7 @@ pip install requests
 
 ## 🎯 Usage
 
-Open and run the script ran.py from your project directory.
+Open and run the script `Run.py` from your project directory.
 
 ### What happens next:
 1. 🖥️ Opens a new terminal window
@@ -43,7 +43,7 @@ Open and run the script ran.py from your project directory.
 3. ⏳ Waits for the development server to start
 4. 🌐 Automatically opens your browser to `http://localhost:5173`
 
-Open and run the script run2.py from your project directory.
+Open and run the script `Run2.py` from your project directory.
 
 ### What happens next:
 1. 📝 Checks if dependencies are installed (node_modules).
